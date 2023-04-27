@@ -1,6 +1,5 @@
-  GNU nano 5.4                                                                 package.json                                                                           
 {
-  "name": "github_waffiqaziz_tugas-5-tcc-50projects50days",
+  "name": "tugas-5-tcc-50projects50days",
   "version": "1.0.0",
   "description": "This is the main repository for all of the projects in the course.",
   "main": "server.js",
@@ -8,13 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "waffiq",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
   }
 }
-
-
-
-
